@@ -1,0 +1,11 @@
+int gcd(int a, int b);
+void rungcd();
+int fib(int n);
+void runfib();
+int pow(int a, int b);
+void runpow();
+int tri(int n);
+void runtri();
+int tri_iter(int doggo);
+int pow_iter(int a, int b);
+int fib_iter(int n);
